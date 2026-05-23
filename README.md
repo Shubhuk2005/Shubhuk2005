@@ -1,4 +1,4 @@
-````md
+````html
 <div align="center">
 
 # ⚡ Shubham Kumar Ray ⚡
@@ -44,25 +44,9 @@ Goal: Build futuristic AI systems
 
 > Deep learning MRI classification platform using TensorFlow, FastAPI, React, and MySQL.
 
-✨ Features:
-
-* CNN-based tumor classification
-* 95% prediction accuracy
-* Real-time prediction system
-* Admin dashboard
-
----
-
 ## 📈 Stock Price Prediction
 
 > LSTM-powered stock forecasting and analytics platform.
-
-✨ Features:
-
-* Historical data forecasting
-* Interactive visualization
-* Machine learning prediction
-* Time-series analytics
 
 ---
 
@@ -73,16 +57,6 @@ Goal: Build futuristic AI systems
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shubhuk2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=07111f" />
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubhuk2005&theme=tokyonight&hide_border=true&background=07111f" />
-
-</div>
-
----
-
-# 🧠 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhuk2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=07111f" />
 
 </div>
 
@@ -113,16 +87,6 @@ Goal: Build futuristic AI systems
 <a href="mailto:aec.it.shubham@gmail.com">
 <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail" />
 </a>
-
-</div>
-
----
-
-# ⚡ Developer Quote
-
-<div align="center">
-
-### "Building intelligent systems that shape the future."
 
 </div>
 
