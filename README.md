@@ -1,4 +1,4 @@
-````html
+
 <div align="center">
 
 # ⚡ Shubham Kumar Ray ⚡
@@ -17,14 +17,14 @@
 
 # 💫 About Me
 
-```yaml
+
 Name: Shubham Kumar Ray
 Education: B.Tech Information Technology
 College: Asansol Engineering College
 Focus: AI, Deep Learning, Full Stack Development
 Currently Learning: Spring Boot & Advanced ML
 Goal: Build futuristic AI systems
-````
+
 
 ---
 
@@ -97,4 +97,3 @@ Goal: Build futuristic AI systems
 <img src="https://komarev.com/ghpvc/?username=Shubhuk2005&label=Profile%20Views&color=2563eb&style=for-the-badge" />
 
 </div>
-```
